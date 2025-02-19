@@ -1,0 +1,15 @@
+//
+//  LocalDev.xcconfig
+//  Void
+//
+//  Created by Uhl Albert on 2/19/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// Team ID
+DEVELOPMENT_TEAM = ZH5BW37FK7
+
+// Bundle Identifier (e.g., com.example.YourAppName)
+PRODUCT_BUNDLE_IDENTIFIER = com.enbright.Void
